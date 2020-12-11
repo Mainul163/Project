@@ -1,0 +1,42 @@
+.b{
+color:red;
+
+background-image:url("milky-way-starry-sky-night-sky-star-956999.jpeg");
+background-size:cover;
+
+}
+
+
+
+
+#d{
+    height: 550px;
+    width: 400px;
+    
+    border: none;
+    border-radius: 25px;
+    margin: 150px auto;
+    
+}
+.f{
+    text-align:center;
+}
+#form{
+    color: black;
+    margin: 5px;
+    text-align: center;
+    padding: 3px;
+    width: 380px;
+    height: 30px;
+}
+#button{
+    margin: 2px;
+    text-align: center;
+    padding: 2px;
+    height: 30px;
+    width: 380px;
+    color:white;
+    background-color:black;
+    border-radius:25px;
+
+}

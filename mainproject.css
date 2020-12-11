@@ -1,0 +1,157 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0%;
+   padding: 0%;
+}
+header{
+    background-image: url(pexels-ariful-haque-3560020.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 550px;
+}
+.navbar{
+
+}
+.navbar-style .navbar-toggler-icon{
+   color: white;
+  
+}
+.navbar-style  .nav-link{
+ color: white;
+ font-size: 20px;
+ padding: 0 10px;
+}
+.navbar-style  .nav-link:hover{
+    color: antiquewhite;
+}
+.navbar-style .dropdown-menu{
+    background-color: #ffc922;
+}
+.main-text-style{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+.componentmenu{
+    margin-top: 200px;
+}
+.saction1{
+    margin-top: 100px;
+}
+.img-style{
+    width: 100%;
+    height: 400px;
+}
+.about-style{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+     
+}
+.paragraph-style{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    padding-top: 30px;
+}
+.section2{
+    margin-top: 100px;
+}
+.beauty{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 50px;
+}
+.paragraph-style1{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    padding-top: 90px; 
+}
+.img-style1{
+    width: 100%;
+    height: 400px;
+}
+.section3{
+    margin-top: 50px;
+}
+.img-style2{
+    width: 100%;
+    height: 630px;
+    
+}
+
+.img-style3{
+    width: 100%;
+    height: 300px;
+}
+.img-style4{
+    margin-top: 30px;
+    width: 100%;
+    height: 300px;
+}
+.recent{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.link-style1{
+    position: absolute;
+    bottom: 20px;
+    padding-left: 350px;
+ 
+   
+}
+
+.link-style1 a{
+ 
+ color: white;
+ font-size:3vw;
+ 
+ font-family: 'Roboto', sans-serif;
+}
+.link-style2{
+    position: absolute;
+    bottom: 20px;
+    padding-right:430px;
+    padding-bottom: 320px;
+  
+}
+.link-style2 a{
+    color: white;
+    font-size:3vw;
+    font-family: 'Roboto', sans-serif;
+}
+.link-style3{
+    position: absolute;
+    bottom: 20px;
+    padding-right:430px;
+}
+.link-style3 a{
+    color: white;
+    font-size:3vw;
+    font-family: 'Roboto', sans-serif;
+}
+.img-style5{ 
+height: auto;
+   width: 100%;
+   
+}
+.re{
+    display: block;
+    border:2px solid black;
+    position: relative;
+    overflow: auto;
+}
+.ab{
+    border:2px solid black;
+    position: absolute;
+    display: block;
+    bottom: 320px;
+    left: 450px;
+   
+}
+.ab .btn{
+padding: 3em;
+
+}
